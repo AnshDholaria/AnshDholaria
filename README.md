@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# About Me:
 Computer Programming and Analysis Student<br><br>📚 Currently studying Computer Programming and Analysis<br>💻 Passionate about solving problems through coding and creating innovative solutions<br>🚀 Always exploring new technologies and improving my skills<br>🎨 Enjoys working on creative projects that blend design and functionality<br>🧠 Lifelong learner with a love for tech challenges and hackathons<br>🌍 Interested in collaborating on open-source projects<br>🎮 Gamer by night, coder by day<br>☕ Fueled by coffee and curiosity!
 
 
