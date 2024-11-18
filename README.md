@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # About Me:
-Computer Programming and Analysis Student<br><br>📚 Currently studying Computer Programming and Analysis<br>💻 Passionate about solving problems through coding and creating innovative solutions<br>🚀 Always exploring new technologies and improving my skills<br>🎨 Enjoys working on creative projects that blend design and functionality<br>🧠 Lifelong learner with a love for tech challenges and hackathons<br>🌍 Interested in collaborating on open-source projects<br>🎮 Gamer by night, coder by day<br>☕ Fueled by coffee and curiosity!
-
+Computer Programming and Analysis Student<br><br>📚 Currently studying Computer Programming and Analysis<br>💻 Passionate about solving problems through coding and creating innovative solutions<br>🚀 Always exploring new technologies and improving my skills
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ansh_Dholaria) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ansh_4403) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ansh_Dholaria) 
